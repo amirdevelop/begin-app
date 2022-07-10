@@ -19,9 +19,7 @@
     "node-telegram-bot-api": "latest",
     "uuid": "^8.3.2",
     "ws": "latest",
-    "axios": "^0.26.1"
-  },
-  "devDependencies": {
+    "axios": "^0.26.1",
     "@architect/sandbox": "^5.2.5"
-  }
+  },
 }
